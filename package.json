@@ -1,8 +1,8 @@
 {
-  "name": "test",
+  "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/IlliaKlason/test",
+  "homepage": "https://IlliaKlason.github.io/test",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /test/"
